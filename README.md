@@ -21,7 +21,7 @@ A full-stack fantasy football app where users can manage teams, buy players, and
 | Frontend           | React 18, Vite, Tailwind CSS, React Router |
 | Backend            | Node.js, Express, TypeScript               |
 | Database           | PostgreSQL                                 |
-| Caching (Optional) | Redis                                      |
+| Caching  | Redis                                      |
 | Deployment         | Docker, IaC scripts                        |
 
 ---
